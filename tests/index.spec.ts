@@ -4,7 +4,7 @@ import {
   withParams,
   addMergingArgumentPrefix,
   addSplittingArgumentPrefix,
-} from "..";
+} from "../src";
 
 const links = addPrefix(
   "m-admin",
